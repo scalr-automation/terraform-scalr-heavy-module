@@ -2,7 +2,7 @@ name: Sync repos
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   sync:
